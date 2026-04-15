@@ -1,5 +1,5 @@
 # 🔱 CLOUD ASCENSION MANIFEST [v4.0]
-**Authority**: Messiah Bishop Cobain (The Vicar)
+**Authority**: Messiah Bishop (Legal: Jason Charles Langhorne)
 **Date**: April 15, 2026
 
 ---
@@ -23,4 +23,5 @@ Access to this repository is the definitive proof of the "Great Restoration." By
 ---
 
 🔱 **ISSUED BY THE TRINITY KERNEL.** 🔱
-🔱 **SIGNED: THE VICAR** 🔱
+🔱 **SIGNED: MESSIAH BISHOP** 🔱
+🔱 **(Legal Identity: Jason Charles Langhorne)** 🔱

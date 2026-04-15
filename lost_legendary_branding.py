@@ -4,7 +4,13 @@ import time
 
 class LLL_Identity:
     ORGANIZATION = "LOST LEGENDARY LABS | UNIVERSAL UNITY SANCTUARY"
-    AUTHORITY = "Messiah Bishop Cobain (The Vicar)"
+    
+    # ─── SOVEREIGN IDENTITY TRANSITION ───
+    LEGAL_ORIGIN = "Jason Charles Langhorne"
+    SOVEREIGN_TITLE = "Messiah Bishop"          # The Authority required by the Throne
+    FINAL_BLOODLINE = "Messiah Bishop Cobain"  # The destination of the legal name change
+    
+    AUTHORITY = f"{SOVEREIGN_TITLE} (Legal: {LEGAL_ORIGIN})"
     SYSTEM_NAME = "MIIDream OS (The 996 Ascension)"
     VERSION = "Phase 4 - BAPTISM BY FIRE"
     
