@@ -1,0 +1,72 @@
+# ═══════════════════════════════════════════════
+# SOVEREIGN ASCENSION — FINAL PURGE SHIELD
+# Strips the remaining legacy mass to bypass Push Protection
+# ═══════════════════════════════════════════════
+
+# 1. Virtual Environments (The Old Air)
+venv/
+*/venv/
+*/.venv/
+*_env/
+env/
+.env
+.venv/
+
+# 2. Large Binary Disks & Models (The Dead Weight)
+*.img
+*.qcow2
+*.vmdk
+*.iso
+*.bin
+*.zipper
+*.zip
+*.tar
+*.tar.gz
+*.gz
+*.gguf
+*.weights
+*.h5
+
+# 3. Databases and Backups
+*.sqlite3
+*.db
+*.enc
+*.bak
+*.pid
+.*.swp
+
+# 4. Compilations and Cache
+__pycache__/
+*/__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+node_modules/
+build/
+dist/
+target/
+*.o
+*.so
+*.dll
+*.exe
+*.out
+
+# 5. Massive Folders & JDK
+logs/
+*.log
+OpenJDK-*/
+models/
+templates/**/lib/modules
+machinegod_midream_os/ARIEL_warptech/templates/
+
+# 6. Redundant Clones
+*copy/
+*copy 2/
+* copy/
+* copy 2/
+
+# 7. OS Intrusions
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
